@@ -249,12 +249,14 @@
     background-color: #FF4081;
     box-shadow: 0 4px 15px rgba(255, 64, 129, 0.4); 
     color: white;
+    animation: float 6s ease-in-out infinite;
 }
 
 .b2{
     background-color: #FCE4EC ;
     box-shadow: 0 6px 20px rgba(255, 64, 129, 0.6);
     color: #880E4F;
+    animation: float 5s ease-in-out infinite;
 }
 
 .hearttalkp2{
