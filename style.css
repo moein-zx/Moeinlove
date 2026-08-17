@@ -76,7 +76,7 @@
 
 /* the first page is start  */
 .firstpage{
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.7)), url('./img/firstPage/Screenshot_2026-08-16-19-35-50-136_com.android.chrome.jpg');
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.7)), url('./Screenshot_2026-08-16-19-35-50-136_com.android.chrome.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
